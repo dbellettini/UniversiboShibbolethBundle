@@ -27,6 +27,9 @@
         "symfony/yaml": "~2.3",
         "phpunit/phpunit": "~3.7"
     },
+    "replace": {
+        "universibo/shibboleth-bundle": "self.version"
+    },
     "minimum-stability": "stable",
     "extra": {
         "branch-alias": {
