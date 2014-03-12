@@ -30,6 +30,12 @@
     "replace": {
         "universibo/shibboleth-bundle": "self.version"
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ],
     "minimum-stability": "stable",
     "extra": {
         "branch-alias": {
