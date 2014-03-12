@@ -6,17 +6,17 @@ Development status
 ------------------
 This bundle is under active development. Although it's stable enough we cannot ensure API stability yet.
 
-Continuous Integration: [![Build Status](https://secure.travis-ci.org/UniversiBO/UniversiboShibbolethBundle.png)](http://travis-ci.org/UniversiBO/UniversiboShibbolethBundle)
+Continuous Integration: [![Build Status](https://secure.travis-ci.org/dbellettini/UniversiboShibbolethBundle.png)](http://travis-ci.org/dbellettini/UniversiboShibbolethBundle)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/UniversiBO/UniversiboShibbolethBundle/badges/quality-score.png?s=b0e0fd3e5db9e0695771694f58fa84b1e54ffe8b)](https://scrutinizer-ci.com/g/UniversiBO/UniversiboShibbolethBundle/)
 [![Code Coverage](https://scrutinizer-ci.com/g/UniversiBO/UniversiboShibbolethBundle/badges/coverage.png?s=05429c9e5de2a039b49481279d7a7724d092253e)](https://scrutinizer-ci.com/g/UniversiBO/UniversiboShibbolethBundle/)
 
 Documentation
 -------------
-[Read the Documentation for master](https://github.com/UniversiBO/UniversiboShibbolethBundle/blob/master/Resources/doc/index.md)
+[Read the Documentation for master](https://github.com/dbellettini/UniversiboShibbolethBundle/blob/master/Resources/doc/index.md)
 
 License
 -------
-Copyright (c) 2012-2013 Associazione UniversiBO
+Copyright (c) 2012-2014 ShibbolethBundle Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
