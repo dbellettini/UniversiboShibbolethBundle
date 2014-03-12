@@ -1,6 +1,6 @@
 UniversiboShibbolethBundle
 ==========================
-This bundle's aim is to provide Shibboleth integration for your Symfony 2.1 or 2.2 project.
+This bundle's aim is to provide Shibboleth integration for your Symfony 2.1 or later project.
 
 Development status
 ------------------
