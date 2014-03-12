@@ -6,7 +6,6 @@
         "authentication",
         "shibboleth"
     ],
-    "homepage": "http://github.com/UniversiBO",
     "license": "MIT",
     "authors": [
         {
