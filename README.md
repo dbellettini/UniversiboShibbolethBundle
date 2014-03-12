@@ -7,8 +7,8 @@ Development status
 This bundle is under active development. Although it's stable enough we cannot ensure API stability yet.
 
 Continuous Integration: [![Build Status](https://secure.travis-ci.org/dbellettini/UniversiboShibbolethBundle.png)](http://travis-ci.org/dbellettini/UniversiboShibbolethBundle)
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/UniversiBO/UniversiboShibbolethBundle/badges/quality-score.png?s=b0e0fd3e5db9e0695771694f58fa84b1e54ffe8b)](https://scrutinizer-ci.com/g/UniversiBO/UniversiboShibbolethBundle/)
-[![Code Coverage](https://scrutinizer-ci.com/g/UniversiBO/UniversiboShibbolethBundle/badges/coverage.png?s=05429c9e5de2a039b49481279d7a7724d092253e)](https://scrutinizer-ci.com/g/UniversiBO/UniversiboShibbolethBundle/)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dbellettini/UniversiboShibbolethBundle/badges/quality-score.png?s=1a873e9a7d8680942280a5127cc99b58d0a36900)](https://scrutinizer-ci.com/g/dbellettini/UniversiboShibbolethBundle/)
+[![Code Coverage](https://scrutinizer-ci.com/g/dbellettini/UniversiboShibbolethBundle/badges/coverage.png?s=1bfeba8e07d816696104b8bfd0a29232d98a329f)](https://scrutinizer-ci.com/g/dbellettini/UniversiboShibbolethBundle/)
 
 Documentation
 -------------
