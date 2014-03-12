@@ -1,5 +1,5 @@
 {
-    "name": "universibo/shibboleth-bundle",
+    "name": "dbellettini/shibboleth-bundle",
     "type": "symfony-bundle",
     "description": "Shibboleth Integration for FOSUserBundle",
     "keywords": [
@@ -14,8 +14,8 @@
             "email": "davide.bellettini@gmail.com"
         },
         {
-            "name": "UniversiboShibbolethBundle Contributors",
-            "homepage": "https://github.com/UniversiBO/UniversiboShibbolethBundle/graphs/contributors"
+            "name": "ShibbolethBundle Contributors",
+            "homepage": "https://github.com/dbellettini/UniversiboShibbolethBundle/graphs/contributors"
         }
     ],
     "require": {
