@@ -4,7 +4,6 @@ namespace Universibo\Bundle\ShibbolethBundle\Security\Authentication\Event;
 
 use Symfony\Component\HttpKernel\Event\GetResponseEvent;
 use Symfony\Component\Security\Core\Exception\AuthenticationException;
-use Universibo\Bundle\ShibbolethBundle\Security\Authentication\Event\AuthenticationFailedEvent;
 
 /*
  * @author Davide Bellettini <davide.bellettini@gmail.com>
