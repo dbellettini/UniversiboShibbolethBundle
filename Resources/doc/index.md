@@ -1,6 +1,6 @@
 UniversiboShibbolethBundle
 ==========================
-This bundle integrates Shibboleth Apache Module with Symfony 2.1 or 2.2
+This bundle integrates Shibboleth Apache Module with Symfony 2.1 or later
 
 ## Installation
 
