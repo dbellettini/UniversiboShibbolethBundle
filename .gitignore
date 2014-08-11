@@ -1,6 +1,7 @@
 *.swp
 *~
 /bin
+/composer.lock
 /nbproject/
 /vendor
 php-cs-fixer.phar
