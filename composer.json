@@ -25,7 +25,7 @@
     },
     "require-dev": {
         "symfony/yaml": "~2.3",
-        "phpunit/phpunit": "~3.7"
+        "phpunit/phpunit": "~4.0"
     },
     "replace": {
         "universibo/shibboleth-bundle": "self.version"
